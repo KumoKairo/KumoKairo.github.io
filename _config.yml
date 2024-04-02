@@ -18,7 +18,10 @@ github_username: "kumokairo"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "midnight"
+remote_theme: pages-themes/midnight@v0.2.0
+theme: jekyll-theme-midnight
+
+show_downloads: false
 
 rss: rss
 
@@ -29,6 +32,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 titles_from_headings:
   strip_title: true
