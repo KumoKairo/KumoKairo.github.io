@@ -2,12 +2,12 @@
 layout: post
 title: World Space MatCap Shading
 date: 2017-09-16
-categories: [Unity, Effects]
-tags: [Unity, Rendering, Effects, Matcaps, Tutorial]  
+categories: [Unity, Shaders]
+tags: [Unity, Rendering, Shaders, Matcaps, Tutorial]  
 img_path: /assets/img/post_images/2017-09-16-matcaps
 ---
 
-> This article was originally written in 2017 and doesn't represent the idiomatic usage of MatCaps. Right now I would have probably used spherical harmonics for the same purpose. Article may still be useful.
+> This article was originally written in 2017 and doesn't represent the idiomatic usage of MatCaps. Right now I would have probably used spherical harmonics for the same purpose. However, article may still be useful.
 {: .prompt-info }
 
 
