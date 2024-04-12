@@ -10,4 +10,4 @@ Tinkering with Godot since 2.x.
 
 Currently working on a web-first game engine mostly written in Dart.
 
-Should probably add links to projects. Maybe next time.
+Should probably add links to projects.
