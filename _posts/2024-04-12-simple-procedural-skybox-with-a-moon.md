@@ -3,7 +3,7 @@ layout: post
 title: Simple procedural skybox with a moon
 date: 2017-08-11
 categories: [Unity, Effects]
-tags: [Unity, Rendering, Effects, Skybox]  
+tags: [Unity, Rendering, Effects, Skybox, Tutorial]  
 img_path: /assets/img/post_images/2017-08-11-skybox
 ---
 

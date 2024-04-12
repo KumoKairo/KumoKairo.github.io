@@ -3,7 +3,7 @@ layout: post
 title: Going back to low poly palettes
 date: 2017-08-09
 categories: [Unity, Optimization]
-tags: [Unity, Blender, Lowpoly, Rendering, Optimization]  
+tags: [Unity, Blender, Lowpoly, Rendering, Optimization, Tutorial]  
 img_path: /assets/img/post_images/2017-08-09-lowpoly-palletes
 ---
 Low poly 3D models give a great opportunity for optimization. Let’s take a look at some of them.
